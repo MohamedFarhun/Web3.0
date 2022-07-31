@@ -1,0 +1,112 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D",
+      "name": "Bored Ape Yatch Club",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d/7139",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "address": "0xe21EBCD28d37A67757B9Bc7b290f4C4928A430b1",
+      "name": "The Saudis",
+      "type": "svg",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0xe21ebcd28d37a67757b9bc7b290f4c4928a430b1/2186",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "address": "0x223E16c52436CAb2cA9FE37087C79986a288FFFA",
+      "name": "Nickelodeon",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0x223e16c52436cab2ca9fe37087c79986a288fffa/544",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "address": "0xbCe3781ae7Ca1a5e050Bd9C4c77369867eBc307e",
+      "name": "Goblintown",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0xbce3781ae7ca1a5e050bd9c4c77369867ebc307e/1459",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "address": "0x60E4d786628Fea6478F785A6d7e704777c86a7c6",
+      "name": "Mutant Ape Yatch Club",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0x60e4d786628fea6478f785a6d7e704777c86a7c6/12412",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "address": "0x06012c8cf97BEaD5deAe237070F9587f8E7A266d",
+      "name": "Cryptokitties",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0x06012c8cf97bead5deae237070f9587f8e7a266d/295490",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "address": "0x099689220846644F87D1137665CDED7BF3422747",
+      "name": "Robotos",
+      "type": "gif",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0x099689220846644f87d1137665cded7bf3422747/8044",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "address": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+      "name": "SkullCrusher",
+      "type": "png",
+      "owner": true,
+      "link": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81443837866613486335633282799756371189613366826704756693434842051765772222465",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "address": "0xECDD2F733bD20E56865750eBcE33f17Da0bEE461",
+      "name": "Crptodads",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0xecdd2f733bd20e56865750ebce33f17da0bee461/116",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "address": "0x8d609Bd201bEaea7DccbfbD9c22851e23Da68691",
+      "name": "DourDarcels",
+      "type": "png",
+      "owner": false,
+      "link": "https://opensea.io/assets/ethereum/0x8d609bd201beaea7dccbfbd9c22851e23da68691/3926",
+      "count": 0
+    },
+    {
+        "id": 11,
+        "address": "0xDa7D42B6167f1497346D7B2336a6D7A603026Db1",
+        "name": "Comic cat",
+        "type": "gif",
+        "owner": false,
+        "link": "https://opensea.io/assets/ethereum/0xDa7D42B6167f1497346D7B2336a6D7A603026Db1",
+        "count": 0
+      },
+      {
+        "id": 12,
+        "address": "0x2953399124F0cBB46d2CbACD8A89cF0599974963",
+        "name": "Hazard",
+        "type": "jpg",
+        "owner": true,
+        "link": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/81443837866613486335633282799756371189613366826704756693434842049566748966913",
+        "count": 0
+      }
+  ]
+}
