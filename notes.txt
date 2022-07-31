@@ -1,0 +1,6 @@
+Notes:-
+*Create a react app using npx-create-react-app appname(make sure nodejs is installed)
+*Connect to a localhost using npm start
+*Connect your metamask wallet with react app
+*Create some nfts in opensea 
+*Check whether the nfts you owned are visible or not
